@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DanielP861/MY-PAP/issues"
   },
-  "homepage": "https://github.com/DanielP861/MY-PAP#readme"
+  "homepage": "https://github.com/DanielP861/MY-PAP#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
