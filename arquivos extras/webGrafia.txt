@@ -1,1 +1,6 @@
 imagem- https://marinapelomundo.com.br/fundo-mapa/
+
+w3 schools- https://www.w3schools.com/
+
+
+Bootstrap- https://getbootstrap.com/docs/5.1/getting-started/introduction/
