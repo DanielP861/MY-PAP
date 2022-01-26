@@ -1,8 +1,12 @@
+/* caixa para colocar o cliente */
+
 .my-mt1{
     margin-top:250px;
     margin-left: 200px;
     margin-right: 200px;
 }
+
+/* botão */
 
 .my-button{
     display: flex;
@@ -11,12 +15,14 @@
 
 }
 
+/* caixa para reseber o link */
+
 .my-mt2{
     margin-top:150px;
     margin-left: 200px;
     margin-right: 200px;
 }
-
+/*imagem de fundo*/
 body{
     background-image: url(https://marinapelomundo.com.br/wp-content/uploads/2018/09/fundo-mapa.jpg);
 }
